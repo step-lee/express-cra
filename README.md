@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and a custom express server to enable server side rendering with create react app.
 
